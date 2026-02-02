@@ -7,7 +7,7 @@ Employing techniques from mathematical sciences, such as modelling, statistics, 
 - resilience to extreme weather conditions (e.g., Dunkelflaute)
 
 Tulipa is being developed by [TNO](https://www.tno.nl/en/) and the [Netherlands eScience Center](https://www.esciencecenter.nl/), with contributions from [TU Delft](https://www.tudelft.nl/) and [Utrecht University](https://www.uu.nl/),  
-and is financed by [TNO](https://www.tno.nl/en/) and [NWO](https://www.nwo.nl/en).
+and is financed by [TNO](https://www.tno.nl/en/) and [NWO](https://www.nwo.nl/en)(NWO – ESI.2019.008).
 
 Tulipa supports the United Nations' [Sustainable Development Goals](https://sdgs.un.org/goals), specifically [Goal 7: Affordable and Clean Energy](https://sdgs.un.org/goals/goal7).
 
